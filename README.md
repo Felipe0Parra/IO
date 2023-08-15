@@ -1,2 +1,2 @@
 # IO
-Repositorio basado en el curso de investigación de operaciones.
+## Repositorio basado en el curso de investigación de operaciones.
